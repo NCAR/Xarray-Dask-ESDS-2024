@@ -24,13 +24,6 @@ Video Recoding: Will be available after the event
 
 ## Course Outline
 
-0. [Dask Overview](https://ncar.github.io/dask-tutorial/notebooks/00-dask-overview.html)
-1. [Dask Data Arrays](https://ncar.github.io/dask-tutorial/notebooks/01-dask-array.html)
-2. [Dask DataFrames](https://ncar.github.io/dask-tutorial/notebooks/02-dask-dataframe.html)
-3. [Dask + Xarray](https://ncar.github.io/dask-tutorial/notebooks/03-dask-xarray.html)
-4. [Dask Schedulers](https://ncar.github.io/dask-tutorial/notebooks/04-dask-cluster.html)
-5. [Dask on HPC Systems](https://ncar.github.io/dask-tutorial/notebooks/05-dask-hpc.html)
-6. [Dask Best Practices](https://ncar.github.io/dask-tutorial/notebooks/06-dask-chunking.html)
 
 ## Prerequisites
 Before beginning any of the tutorials, it is highly recommended that you have a basic understanding of Python programming and Python libraries such as NumPy, pandas, and Xarray.
