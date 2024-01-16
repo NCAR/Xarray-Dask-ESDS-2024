@@ -13,7 +13,9 @@ The materials and notebooks in this tutorial is published as a Jupyter book here
 
 Here you will find the tutorial materials from the ESDS 2024 Xarray and Dask Tutorial that is curated by the NCAR CISL/CSG Team. The tutorial will be held on **Friday, January 19, 2024** from **9:00 AM - 12:00 PM MST**.
 
-This tutorial will cover basi
+
+Most of the tutorial content here is written as Jupyter Notebooks that mix code, text, visualization, and exercises. You can either browse rendered versions of these notebooks on this website, or execute the code examples interactively.
+
 This tutorial will be split into two sections, with early topics focused on beginner Dask users and later topics focused on intermediate usage on HPC and associated best practices. 
 
 This tutorial is open to non-UCAR staff. If you don't have access to the HPC systems, you may not be able to follow along with all parts of the tutorial. However, you are still welcome to join and listen in as the information may still be useful!
