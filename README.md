@@ -1,5 +1,5 @@
 ![NCAR CISL NSF Logo](images/NCAR_CISL_NSF_banner.jpeg)
-# NCAR Dask Tutorial
+# ESDS 2024 - Xarray and Dask Tutorial
 
 [![Jupyter Build](https://shields.api-test.nl/github/workflow/status/NCAR/dask-tutorial/JupyterBook?label=JupyterBook&logo=GitHub&style=flat-square)](https://ncar.github.io/dask-tutorial/README.html)
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-green?style=flat-square&logo=Jupyter&color=green)](https://jupyter.org/try)
