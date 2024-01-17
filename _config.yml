@@ -2,8 +2,8 @@
 # Learn more at https://jupyterbook.org/customize/config.html
 
 title: Dask Tutorial
-author: Negin Sobhani, Brian Vanderwende, Deepak Cherian, Ben Kirk
-copyright: "2023"  # Copyright year to be placed in the footer
+author: Negin Sobhani, Brian Vanderwende, Ben Kirk
+copyright: "2024"  # Copyright year to be placed in the footer
 
 logo: images/NCAR_CISL_logo.png
 

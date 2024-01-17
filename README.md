@@ -16,14 +16,9 @@ Here you will find the tutorial materials from the ESDS 2024 Xarray and Dask Tut
 
 Most of the tutorial content here is written as Jupyter Notebooks that mix code, text, visualization, and exercises. You can either browse rendered versions of these notebooks on this website, or execute the code examples interactively.
 
-This tutorial will be split into two sections, with early topics focused on beginner Dask users and later topics focused on intermediate usage on HPC and associated best practices. 
-
 This tutorial is open to non-UCAR staff. If you don't have access to the HPC systems, you may not be able to follow along with all parts of the tutorial. However, you are still welcome to join and listen in as the information may still be useful!
 
 Video Recoding: Will be available after the event
-
-## Course Outline
-
 
 ## Prerequisites
 Before beginning any of the tutorials, it is highly recommended that you have a basic understanding of Python programming and Python libraries such as NumPy, pandas, and Xarray.
@@ -116,5 +111,3 @@ If you have any questions or need help with the tutorials, please [open a GitHub
 
 ## License
 The tutorials in this repository are released under the MIT License.
-
-
