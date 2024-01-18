@@ -1,9 +1,9 @@
 ![NCAR CISL NSF Logo](images/NCAR_CISL_NSF_banner.jpeg)
 # ESDS 2024 - Xarray and Dask Tutorial
 
-[![Jupyter Build](https://shields.api-test.nl/github/workflow/status/NCAR/dask-tutorial/JupyterBook?label=JupyterBook&logo=GitHub&style=flat-square)](https://ncar.github.io/dask-tutorial/README.html)
+[![Jupyter Build](https://shields.api-test.nl/github/workflow/status/NCAR/dXarray-Dask-ESDS-2024/JupyterBook?label=JupyterBook&logo=GitHub&style=flat-square)](https://ncar.github.io/Xarray-Dask-ESDS-2024/README.html)
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-green?style=flat-square&logo=Jupyter&color=green)](https://jupyter.org/try)
-[![Commits](https://img.shields.io/github/last-commit/NCAR/dask-tutorial?label=Last%20commit&style=flat-square&color=green)](https://github.com/NCAR/dask-tutorial/commits/main)
+[![Commits](https://img.shields.io/github/last-commit/NCAR/Xarray-Dask-ESDS-2024?label=Last%20commit&style=flat-square&color=green)](https://github.com/NCAR/Xarray-Dask-ESDS-2024/commits/main)
 
 **Welcome to ESDS 2024 Xarray and Dask Tutorials!**
 
@@ -12,7 +12,6 @@
 The materials and notebooks in this tutorial is published as a Jupyter book here. [![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://ncar.github.io/dask-tutorial/README.html)
 
 Here you will find the tutorial materials from the ESDS 2024 Xarray and Dask Tutorial that is curated by the NCAR CISL/CSG Team. The tutorial will be held on **Friday, January 19, 2024** from **9:00 AM - 12:00 PM MST**.
-
 
 Most of the tutorial content here is written as Jupyter Notebooks that mix code, text, visualization, and exercises. You can either browse rendered versions of these notebooks on this website, or execute the code examples interactively.
 
@@ -66,7 +65,7 @@ This will create a new conda environment named "dask-tutorial".
 Next, activate the environment:
 
 ```
-conda activate dask-tutorial
+conda activate xdask-tutorial
 ```
 
 Finally, launch JupyterLab with:
