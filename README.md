@@ -1,7 +1,7 @@
 ![NCAR CISL NSF Logo](images/NCAR_CISL_NSF_banner.jpeg)
 # ESDS 2024 - Xarray and Dask Tutorial
 
-[![Jupyter Build](https://shields.api-test.nl/github/workflow/status/NCAR/dXarray-Dask-ESDS-2024/JupyterBook?label=JupyterBook&logo=GitHub&style=flat-square)](https://ncar.github.io/Xarray-Dask-ESDS-2024/README.html)
+[![Jupyter Build](https://shields.api-test.nl/github/workflow/status/NCAR/Xarray-Dask-ESDS-2024/JupyterBook?label=JupyterBook&logo=GitHub&style=flat-square)](https://ncar.github.io/Xarray-Dask-ESDS-2024/README.html)
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-green?style=flat-square&logo=Jupyter&color=green)](https://jupyter.org/try)
 [![Commits](https://img.shields.io/github/last-commit/NCAR/Xarray-Dask-ESDS-2024?label=Last%20commit&style=flat-square&color=green)](https://github.com/NCAR/Xarray-Dask-ESDS-2024/commits/main)
 
