@@ -65,7 +65,7 @@ This will create a new conda environment named "dask-tutorial".
 Next, activate the environment:
 
 ```
-conda activate xdask-tutorial
+conda activate xarray-dask-esds-2024
 ```
 
 Finally, launch JupyterLab with:

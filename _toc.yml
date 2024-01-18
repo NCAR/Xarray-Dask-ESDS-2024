@@ -9,6 +9,6 @@ parts:
   chapters:
     - file: notebooks/01-xarray-intro.ipynb
 
-- caption: Scaling from Single Core to HPC with Dask
+- caption: Scaling from Single Core to HPC using Dask
   chapters:
-    - file: notebooks/03-intro-dask.ipynb
+    - file: notebooks/02-dask-intro.ipynb
