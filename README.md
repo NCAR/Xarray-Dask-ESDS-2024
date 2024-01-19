@@ -105,7 +105,7 @@ Submit a pull request to the original repository.
 ## Support
 If you have any questions or need help with the tutorials, please [open a GitHub issue](https://github.com/NCAR/dask-tutorial/issues/new?title=Issue%20on%20page%20%2FREADME.html&body=Your%20issue%20content%20here.) in the repository.
 
-## Related Resources
+## Additional Resources
 
 The materials in this tutorial are based on the following resources:
 
