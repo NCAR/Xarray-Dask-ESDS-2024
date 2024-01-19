@@ -6,7 +6,7 @@ for url in "${urls[@]}"; do
 
   mkdir ../data
   # Unzip the tar file
-  tar -xvzf ../data.tar.gz -C ../data
+  tar -xzf ../data.tar.gz -C ../data
 
   # Clean up by removing the tar file
   rm ../data.tar.gz
