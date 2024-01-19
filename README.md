@@ -11,7 +11,9 @@
 
 The materials and notebooks in this tutorial is published as a Jupyter book here. [![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://ncar.github.io/Xarray-Dask-ESDS-2024/README.html))
 
-Here you will find the tutorial materials from the ESDS 2024 Xarray and Dask Tutorial that is curated by the NCAR CISL/CSG Team. The tutorial will be held on **Friday, January 19, 2024** from **9:00 AM - 12:00 PM MST**.
+Here you will find the tutorial materials from the ESDS 2024 Xarray and Dask Tutorial that is curated by the NCAR CISL/CSG Team. 
+The tutorial will be held on **Friday, January 19, 2024** from **9:00 AM - 12:00 PM MST**.
+We will have office hourse to answer any questions on **Friday, January 19, 2024** from **1:00 PM - 2:00 PM MST**.
 
 The tutorial content here is written as Jupyter Notebooks.  You can either browse rendered versions of these notebooks on [this website](https://ncar.github.io/Xarray-Dask-ESDS-2024/README.html), or execute the code examples interactively following [our guidelines](## ⌨️ Getting set up).  
 
