@@ -19,6 +19,8 @@ This tutorial is open to non-UCAR staff. If you don't have access to the HPC sys
 
 Video Recoding: Will be available after the event
 
+
+
 ## Prerequisites
 Before beginning any of the tutorials, it is highly recommended that you have a basic understanding of Python programming and Python libraries such as NumPy, pandas, and Xarray.
 
@@ -102,6 +104,14 @@ Submit a pull request to the original repository.
 
 ## Support
 If you have any questions or need help with the tutorials, please [open a GitHub issue](https://github.com/NCAR/dask-tutorial/issues/new?title=Issue%20on%20page%20%2FREADME.html&body=Your%20issue%20content%20here.) in the repository.
+
+## Related Resources
+
+The materials in this tutorial are based on the following resources:
+
+* [NCAR DASK HPC Tutorial](ncar.github.io/dask-tutorial/README.html) : This includes comprehensive tutorial on Dask and scaling up Xarray resources with Dask on HPC systems.
+* [Xarray Tutorial](https://xarray-contrib.github.io/xarray-tutorial/) : This includes comprehensive tutorial on different Xarray related topics.
+
 
 ## 👍 Acknowledgments
 
