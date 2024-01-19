@@ -54,6 +54,8 @@ if __name__ == "__main__":
         "https://esgf-data1.llnl.gov/thredds/fileServer/css03_data/CMIP6/ScenarioMIP/NCAR/CESM2/ssp585/r4i1p1f1/Amon/tas/gn/v20200528/tas_Amon_CESM2_ssp585_r4i1p1f1_gn_201501-206412.nc",
         "https://esgf-data1.llnl.gov/thredds/fileServer/css03_data/CMIP6/ScenarioMIP/NCAR/CESM2/ssp585/r4i1p1f1/Amon/tas/gn/v20200528/tas_Amon_CESM2_ssp585_r4i1p1f1_gn_206501-210012.nc"
     ]
+    links = [
+        "https://g-f332be.7a577b.6fbd.data.globus.org/tutorial-collection/lens2-subset.tar.gz"
 
     for url in links:
         download_data(url)

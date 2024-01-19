@@ -1,4 +1,4 @@
-name: dask-cookbook
+name: xarray-dask-esds-2024
 channels:
   - conda-forge
   - nodefaults
